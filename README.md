@@ -32,7 +32,7 @@ César Abraham López Aguilar GDS0643
 
 ### Video demostrando la funcionalidad.
 
-<a href=""></a>
+<a href="https://drive.google.com/drive/u/0/folders/11nDPbB_s7NfS4EMSGXmze9XilowSkIor">Video Ejercicio 1 y 2.</a>
 
 ---
 
@@ -44,20 +44,20 @@ César Abraham López Aguilar GDS0643
 
 ### Configuración inicial de Raspberry Pi, PostgreSQL, Node-RED y Mosquitto.
 
-<a href="">Configuración inicial de Raspberry Pi</a>
-<a href="">Node-RED, PostgreSQL y Mosquitto</a>
+<a href="https://drive.google.com/drive/u/0/folders/11nDPbB_s7NfS4EMSGXmze9XilowSkIor">Configuración inicial de Raspberry Pi</a>
+<a href="https://drive.google.com/drive/u/0/folders/11nDPbB_s7NfS4EMSGXmze9XilowSkIor">Node-RED, PostgreSQL y Mosquitto</a>
 
 ### LED y Botón con Raspberry Pi.
 
 <a href="https://drive.google.com/drive/u/0/folders/11nDPbB_s7NfS4EMSGXmze9XilowSkIor">LED y Botón con Raspberry Pi librería "led_gpiozero.py"</a>
 <a href="https://drive.google.com/drive/u/0/folders/11nDPbB_s7NfS4EMSGXmze9XilowSkIor">LED y Botón con Raspberry Pi librería "button_gpiozero.py"</a>
-<a href="">LED y Botón con Raspberry Pi librería "led_pigpio.py"</a>
-<a href="">LED y Botón con Raspberry Pi librería "button_pigpio.py"</a>
+<a href="https://drive.google.com/drive/u/0/folders/11nDPbB_s7NfS4EMSGXmze9XilowSkIor">LED y Botón con Raspberry Pi librería "led_pigpio.py"</a>
+<a href="https://drive.google.com/drive/u/0/folders/11nDPbB_s7NfS4EMSGXmze9XilowSkIor">LED y Botón con Raspberry Pi librería "button_pigpio.py"</a>
 
 ### Configuración de un sistema de publicación y suscripción con Mosquitto
 
-<a href=""></a>
-<a href=""></a>
+<a href="https://drive.google.com/drive/u/0/folders/11nDPbB_s7NfS4EMSGXmze9XilowSkIor">Mosquito Parejas </a>
+<a href="https://drive.google.com/drive/u/0/folders/11nDPbB_s7NfS4EMSGXmze9XilowSkIor">Mosquito individual (Raspberry)</a>
 
 ---
 
