@@ -40,24 +40,24 @@ César Abraham López Aguilar GDS0643
 
 ### CRUD en PostgreSQL.
 
-<a href="">Video del Crud</a>
+<a href="https://drive.google.com/file/d/1wl5vFmqCtlV-_bKBRPGTO9gy4w5jIsIw/view?usp=drive_link">Video del Crud</a>
 
 ### Configuración inicial de Raspberry Pi, PostgreSQL, Node-RED y Mosquitto.
 
-<a href="https://drive.google.com/file/d/11wLjhdMwyeRyQ-U9aiyOyLEEfente8j7/view?usp=drive_link">Configuración inicial de Raspberry Pi</a>
-<a href="https://drive.google.com/file/d/128lzE9bxpz6BKTB_SXoM0VUA70QlcXpC/view?usp=drive_link">Node-RED, PostgreSQL y Mosquitto</a>
+1. <a href="https://drive.google.com/file/d/11wLjhdMwyeRyQ-U9aiyOyLEEfente8j7/view?usp=drive_link">Configuración inicial de Raspberry Pi</a>
+2. <a href="https://drive.google.com/file/d/128lzE9bxpz6BKTB_SXoM0VUA70QlcXpC/view?usp=drive_link">Node-RED, PostgreSQL y Mosquitto</a>
 
 ### LED y Botón con Raspberry Pi.
 
-<a href="https://drive.google.com/file/d/11rn9rkgekv6HU3PXzGBusRygK3JoJwVu/view?usp=drive_link">LED y Botón con Raspberry Pi librería "led_gpiozero.py"</a>
-<a href="https://drive.google.com/file/d/11uMa93qqRCsm9bTH91UlPgrvngfXAQxT/view?usp=drive_link">LED y Botón con Raspberry Pi librería "button_gpiozero.py"</a>
-<a href="https://drive.google.com/file/d/128mojXf9ZNOkab5xy-SupMxmie1l2jpc/view?usp=drive_link">LED y Botón con Raspberry Pi librería "led_pigpio.py"</a>
-<a href="https://drive.google.com/file/d/12JoBJd2FYGn5uKtvy99PSsPBE_CMEhJd/view?usp=drive_link">LED y Botón con Raspberry Pi librería "button_pigpio.py"</a>
+1. <a href="https://drive.google.com/file/d/11rn9rkgekv6HU3PXzGBusRygK3JoJwVu/view?usp=drive_link">LED y Botón con Raspberry Pi librería "led_gpiozero.py"</a>
+2. <a href="https://drive.google.com/file/d/11uMa93qqRCsm9bTH91UlPgrvngfXAQxT/view?usp=drive_link">LED y Botón con Raspberry Pi librería "button_gpiozero.py"</a>
+3. <a href="https://drive.google.com/file/d/128mojXf9ZNOkab5xy-SupMxmie1l2jpc/view?usp=drive_link">LED y Botón con Raspberry Pi librería "led_pigpio.py"</a>
+4. <a href="https://drive.google.com/file/d/12JoBJd2FYGn5uKtvy99PSsPBE_CMEhJd/view?usp=drive_link">LED y Botón con Raspberry Pi librería "button_pigpio.py"</a>
 
 ### Configuración de un sistema de publicación y suscripción con Mosquitto
 
-<a href="https://drive.google.com/file/d/11rctqrHkV2NcniP93bCYfB7zaRf-sC2z/view?usp=drive_link">Mosquito Parejas </a>
-<a href="https://drive.google.com/file/d/124hCerNeKTBXYbbBd-jy7E4T5wfkTiNF/view?usp=drive_link">Mosquito individual (Raspberry)</a>
+1. <a href="https://drive.google.com/file/d/11rctqrHkV2NcniP93bCYfB7zaRf-sC2z/view?usp=drive_link">Mosquito Parejas </a>
+2. <a href="https://drive.google.com/file/d/124hCerNeKTBXYbbBd-jy7E4T5wfkTiNF/view?usp=drive_link">Mosquito individual (Raspberry)</a>
 
 ---
 
@@ -71,7 +71,6 @@ César Abraham López Aguilar GDS0643
 
 ## Capturas de Evaluaciones del Curso de Python 2.
 
-Capturas de pantalla de los resultados de evaluaciones del curso de Python 2.
 
 <img width="800" src="https://github.com/CesarAbraham0428/IoT2-U1/blob/main/assets/netacad/modulo1.png" />
 <img width="800" src="https://github.com/CesarAbraham0428/IoT2-U1/blob/main/assets/netacad/modulo2.png" />
